@@ -1,0 +1,5 @@
+<lint>
+    <issue id="HardcodedText" severity="error" />
+    <issue id="InsecureRandom" severity="error" />
+    <issue id="UnusedResources" severity="warning" />
+</lint> 
